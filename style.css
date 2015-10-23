@@ -45,3 +45,13 @@ p{
     font-size:10px;
     fill:rgb(180,180,180);
 }
+
+.primaryCompletion{
+	stroke:red;
+	stroke-width:1px;
+}
+
+.urbanPop{
+	stroke: blue;
+	stroke-width: 1px;
+}
